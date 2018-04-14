@@ -6,3 +6,8 @@ body{
     height: 980px;
     width: 100%;
 }
+#header{
+    background-color: #ffffff;
+    height: 100px;
+    width: 100%;
+}
